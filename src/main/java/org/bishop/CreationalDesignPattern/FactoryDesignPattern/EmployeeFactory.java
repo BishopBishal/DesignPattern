@@ -8,7 +8,7 @@ public class EmployeeFactory {
     *
     * Advantages of Factory Design Pattern
     * 1) Focus on creating the object of interface rather than implementation
-    * 2)Lose Coupling and more Robust code 
+    * 2)Lose Coupling and more Robust code
     * */
     public static Employee getEmployee(String employeeType)
     {
