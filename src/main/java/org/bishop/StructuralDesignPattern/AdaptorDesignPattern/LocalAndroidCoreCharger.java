@@ -1,4 +1,4 @@
-package org.bishop.BehaviouralDesignPattern.AdaptorDesignPattern;
+package org.bishop.StructuralDesignPattern.AdaptorDesignPattern;
 
 public class LocalAndroidCoreCharger implements AndroidCharger{
     @Override

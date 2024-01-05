@@ -1,4 +1,4 @@
-package org.bishop.BehaviouralDesignPattern.AdaptorDesignPattern;
+package org.bishop.StructuralDesignPattern.AdaptorDesignPattern;
 
 public class Iphone13 {
     private IphoneCharger iphoneCharger;
